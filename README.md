@@ -23,3 +23,19 @@ In this assignment, your task is to create a website following the design of the
 - Designers
 - Packages
 - Contact
+
+### Author
+
+- [@hemal6325](https://www.github.com/hemal6325)
+
+### Documentation
+
+[Project Report]([https://drive.google.com/file/d/1NXDA3nZnzsxnOnYaoSt7UmkpbcIZ30QL/view?usp=drive_link](https://drive.google.com/file/d/1tHikzn-WFZgvZgBBCuTBtD5dctO_fSqO/view?usp=sharing))
+
+### System Test Report
+
+
+
+### Feedback
+
+If You Have Any Feedback, Please Reach Out To Us At [rohejulhemal](https://sites.google.com/diu.edu.bd/rohejulhemal/home)
