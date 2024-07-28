@@ -30,7 +30,7 @@ In this assignment, your task is to create a website following the design of the
 
 ### Documentation
 
-[Project Report]([https://drive.google.com/file/d/1NXDA3nZnzsxnOnYaoSt7UmkpbcIZ30QL/view?usp=drive_link](https://drive.google.com/file/d/1tHikzn-WFZgvZgBBCuTBtD5dctO_fSqO/view?usp=sharing))
+[Project Documentation](https://drive.google.com/file/d/1tHikzn-WFZgvZgBBCuTBtD5dctO_fSqO/view?usp=sharing)
 
 ### System Test Report
 
